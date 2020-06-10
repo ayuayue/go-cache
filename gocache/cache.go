@@ -2,7 +2,7 @@ package gocache
 
 import (
 	"fmt"
-	"go-cache/lru"
+	"gocache/lru"
 	"log"
 	"sync"
 )
